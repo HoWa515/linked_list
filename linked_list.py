@@ -13,4 +13,4 @@ class Linked_List:
 
 my_list=Linked_List(5)
 print(my_list.head.value)
-print(my_list.tail.value)
+print(my_list.tail.next)
